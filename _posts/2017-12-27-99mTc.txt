@@ -4,6 +4,3 @@ title: 99mTc
 ---
 
 <p> metastable technetium-99</p>
-
-<b>으아아ㅏㅏㅏ</b>
-   
