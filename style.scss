@@ -13,6 +13,12 @@
 /* BASE RULES */
 /**************/
 
+<!--header.html-->
+<link rel="stylesheet" href="{{ site.baseurl }}/css/font-awesome.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/earlyaccess/jejugothic.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/earlyaccess/nanumgothic.css">
+
+
 html {
   font-size: 100%;
 }
@@ -281,6 +287,20 @@ nav {
 footer {
   padding: 20px 0;
   text-align: center;
+}
+
+/* style.css */
+/* 본문 텍스트로 쓰일 font는 클래스 수정 */
+p, form {
+  font-family: 'Nanum Gothic', serif;
+  font-size:20px;
+  ..
+}
+
+/* footer용 font로 쓰일 클래스는 신규추가 */
+.footer-text {
+  font-family: 'Jeju Gothic', serif;
+  font-size: 16px;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
