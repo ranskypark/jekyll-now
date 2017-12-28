@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Computed Tomography Reconsturcion
-Python, C, C++, CUDA
+### Computed Tomography Reconsturcion
+### Python, C, C++, CUDA
 
 ### More Information
 
